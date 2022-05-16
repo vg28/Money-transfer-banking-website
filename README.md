@@ -1,10 +1,14 @@
-# Money-transfer-banking-website
-Task 1 of TSF GRIP - TSF - The Spark Foundation [Web development Internship]
+# the-sparks-foundation
+Sparks Foundation Internship Project : Basic Banking System  
+A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.  
 
-Hello Everyone!
-      
-      Name: Vanshita Gupta
+Stack used - 
+Front-end : HTML, CSS, Bootstrap & Javascript 
+Back-end : PHP 
+Database : MySQL   
 
-       -Task #0: LinkedIn Profile Improvement
-                 LinkedIn link: linkedin.com/in/vanshita-gupta-383309110
-       -Task #1: Making a money tranfer banking website.
+Database contains two Tables- Users Table & Transaction Table 
+1. User table have basic fields such as name, email & current balance. 
+2. Transaction table records all transfers happened along with their time.  
+
+Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
